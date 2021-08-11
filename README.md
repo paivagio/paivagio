@@ -47,8 +47,6 @@ Here are some ideas to get you started:
    <img height="167em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paivagio&layout=compact&theme=midnight-purple&exclude_repo=CliNTREc-Interface"/>
 </div> 
 
-![Snake animation](https://github.com/paivagio/paivagio/blob/output/github-contribution-grid-snake.svg)
-
 <br/>
 
 ---
