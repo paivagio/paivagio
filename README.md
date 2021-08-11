@@ -50,6 +50,9 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
+&nbsp;
+&nbsp;
+&nbsp;
 
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/giovanni_paiva_/)&nbsp;
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovannipaiva/)&nbsp;
