@@ -10,12 +10,9 @@ Here are some ideas to get you started:
 
 <br/>
 
-## About me
+## About me [![Foo](https://web.telegram.org/img/logo_share.png)](http://google.com.au/)
 
 <div align="center">
-  <a href="https://t.me/Oliveira_LFA">
-    <img align="left" alt="Lucas's Telegram" width="22px" src="https://web.telegram.org/img/logo_share.png" />
-  </a>
 
   <a href="https://www.instagram.com/giovanni_paiva_/">
     <img align="left" alt="Lucas's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
