@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>Welcome to my place in the universe</h1>
+# Welcome to my cozy place in the universe
+
 <img align="center" src="https://github.com/paivagio/paivagio/blob/main/banner-space.jpg"/>
 
 <a href="https://github.com/paivagio">
@@ -25,7 +26,7 @@ Here are some ideas to get you started:
    <img src="https://komarev.com/ghpvc/?username=paivagio">
 </a>
 
-<br/>
+## About me
 
 <div align="center"> 
   <a href="https://github.com/paivagio">
@@ -36,7 +37,7 @@ Here are some ideas to get you started:
   ![Snake animation](https://github.com/paivagio/paivagio/blob/output/github-contribution-grid-snake.svg)
 </div>
   
-<h1> Repositórios em destaque </h1>
+## My most recent work
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paivagio&repo=CliNTREc&theme=midnight-purple)](https://github.com/paivagio/CliNTREc)
 
