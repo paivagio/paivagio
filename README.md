@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 </a>
 -->
 
+![Instagram](https://img.shields.io/badge/Python-0a357a?style=for-the-badge&logo=instagram&logoColor=white)&nbsp;
+
 ## ABOUT ME
 
 ![Python](https://img.shields.io/badge/Python-0a357a?style=for-the-badge&logo=python&logoColor=white)&nbsp;
