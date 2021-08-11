@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 -->
 
-# Welcome to my cozy place in the universe ![Badge](https://img.shields.io/github/followers/paivagio) <a href="https://komarev.com/ghpvc/?username=paivagio">
+# Welcome to my cozy place in the universe ![Badge](https://img.shields.io/github/followers/paivagio) <img src="https://komarev.com/ghpvc/?username=paivagio"/>
 
 <img align="center" src="https://github.com/paivagio/paivagio/blob/main/images/space.jpg"/>
 <br/>
