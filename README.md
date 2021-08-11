@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 # Welcome to my cozy place in the universe
 
-<img align="center" src="https://github.com/paivagio/paivagio/blob/main/banner-space.jpg"/>
+<img align="center" src="https://github.com/paivagio/paivagio/blob/main/images/space.jpg"/>
 
 <a href="https://github.com/paivagio">
   <img src="https://img.shields.io/github/followers/paivagio">
