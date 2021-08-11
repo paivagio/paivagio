@@ -32,6 +32,7 @@ Here are some ideas to get you started:
     <img align="left" alt="Lucas's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
   </a>
 </div>
+
 ## About me
 
 <div align="center"> 
