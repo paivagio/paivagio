@@ -45,7 +45,6 @@ Here are some ideas to get you started:
 <br/>
 <!-- 🤔 I’m looking for help with ... -->
 
-    
 ![Snake animation](https://github.com/paivagio/paivagio/blob/output/github-contribution-grid-snake.svg)
 
 <br/>
