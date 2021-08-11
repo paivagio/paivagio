@@ -12,9 +12,18 @@ Here are some ideas to get you started:
 <img align='center' src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="480" height="280" />
 
 <br/>
-
-[![Twitter Badge](https://img.shields.io/badge/-paivagio-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/paivagio)](https://twitter.com/paivagio)  [![Linkedin Badge](https://img.shields.io/badge/-paivagio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovannipaiva//)](https://www.linkedin.com/in/giovannipaiva/) 
-
+<!--
+<img src="https://img.shields.io/badge/yobasu2015@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="yobasu2015@gmail.com">   
+<a  href="https://www.instagram.com/sharannyo_/">
+  <img src="https://img.shields.io/badge/@sharannyo_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
+</a>   
+<a href="https://www.linkedin.com/in/sharannyobasu/">
+  <img src="https://img.shields.io/badge/Sharannyo Basu-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" >
+</a> 
+<a  href="https://medium.com/@yobasu2015">
+  <img src="https://img.shields.io/badge/@yobasu2015-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white">
+</a>
+-->
 ## ABOUT ME
 
 - 🔭 I’m currently working on a cohort selection system for clinical trials<br/>
