@@ -33,8 +33,6 @@ Here are some ideas to get you started:
 
 <br/>
 
-## TOOLS AND KNOWLEDGE 
-
 ![Python](https://img.shields.io/badge/Python-0a357a?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-0a357a?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/C-0a357a?style=for-the-badge&logo=c&logoColor=white)&nbsp;
@@ -46,8 +44,6 @@ Here are some ideas to get you started:
 ![Unity3D](https://img.shields.io/badge/Unity-0a357a?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
 
 <br/>
-
-## MY ANALYTICS 
 
 <div align="center"> 
   <img height="167em" align="center" src="https://github-readme-stats.vercel.app/api?username=paivagio&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
