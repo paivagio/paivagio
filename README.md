@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-## About me [<img align="left" alt="Lucas's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />](https://www.instagram.com/giovanni_paiva_/)
+## About me [<img alt="Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />](https://www.instagram.com/giovanni_paiva_/)
 
 <div align="center">
 
