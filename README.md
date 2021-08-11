@@ -22,8 +22,11 @@ Here are some ideas to get you started:
 🌱 I’m currently learning WEB programming and MATLAB<br/>
 👯 I’m looking to collaborate on ...<br/>
 ⚡ Fun fact: I like space<br/>
-💬 Reach me: 
-[<img alt="Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />](https://www.instagram.com/giovanni_paiva_/) [<img align="left" alt="Lucas's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />](https://www.linkedin.com/in/giovannipaiva/)
+💬 Reach me:
+
+[<img alt="Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />](https://www.instagram.com/giovanni_paiva_/) 
+[<img align="left" alt="Lucas's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />](https://www.linkedin.com/in/giovannipaiva/)
+
 <br/>
 <!-- 🤔 I’m looking for help with ... -->
 
