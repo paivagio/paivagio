@@ -34,5 +34,5 @@ Here are some ideas to get you started:
   
 <h1> Repositórios em destaque </h1>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paivagio&repo=CliNTREc)](https://github.com/paivagio/CliNTREc)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paivagio&repo=CliNTREc&theme=midnight-purple)](https://github.com/paivagio/CliNTREc)
 
