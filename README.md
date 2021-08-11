@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <div align="center"> 
   <a href="https://github.com/paivagio">
   <img height="167em" align="center" src="https://github-readme-stats.vercel.app/api?username=paivagio&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-   <img height="167em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paivagio&layout=compact&theme=midnight-purple"/>
+   <img height="167em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paivagio&layout=compact&theme=midnight-purple&exclude_repo=CliNTREc-Interface"/>
   
 
   ![Snake animation](https://github.com/paivagio/paivagio/blob/output/github-contribution-grid-snake.svg)
