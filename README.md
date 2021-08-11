@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 ## ABOUT ME [<img alt="Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />](https://www.instagram.com/giovanni_paiva_/) [<img align="left" alt="Lucas's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />](https://www.linkedin.com/in/giovannipaiva/)
 
 <div align="center"> 
-  <a href="https://github.com/paivagio">
   <img height="167em" align="center" src="https://github-readme-stats.vercel.app/api?username=paivagio&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
    <img height="167em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paivagio&layout=compact&theme=midnight-purple&exclude_repo=CliNTREc-Interface"/>
 </div> 
-<br/>
+
+<span style="color: #f2cf4a; font-family: Babas; font-size: 2em;">INSPIRATION DAY</span>
   
 🔭 I’m currently working on a cohort selection system for clinical trials
 🌱 I’m currently learning WEB programming and MATLAB
