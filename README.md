@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 
 
-## ABOUT ME
+<h1>ABOUT ME</h1>
 
 - 🔭 I’m currently working on a cohort selection system for clinical trials<br/>
 - 🌱 I’m currently learning WEB programming and MATLAB<br/>
