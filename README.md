@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/giovanni_paiva_/)&nbsp;
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovannipaiva/)&nbsp;
-[![Discord](https://img.shields.io/badge/discord-%7289D9?style=for-the-badge&logo=discord&logoColor=white)](https://www.linkedin.com/in/giovannipaiva/)&nbsp;
+[![Discord](https://img.shields.io/badge/discord-%237289d9?style=for-the-badge&logo=discord&logoColor=white)](https://www.linkedin.com/in/giovannipaiva/)&nbsp;
 
 ## ABOUT ME
 
