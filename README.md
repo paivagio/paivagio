@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1>Welcome to my place in the universe</h1>
-![space](banner-space.jpg)
+![picture alt](banner-space.jpg)
 
 <a href="https://github.com/paivagio">
   <img src="https://img.shields.io/github/followers/paivagio">
