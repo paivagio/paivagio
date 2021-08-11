@@ -1,25 +1,14 @@
-### Hi there 👋
-
 <!--
 **paivagio/paivagio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
 
-# Welcome to my cozy place in the universe
+# Welcome to my cozy place in the universe ![Badge](https://img.shields.io/github/followers/paivagio) ![Badge](https://komarev.com/ghpvc/?username=paivagio)
 
 <img align="center" src="https://github.com/paivagio/paivagio/blob/main/images/space.jpg"/>
-
+<br/>
 <div align="center">
-  <a href="https://github.com/paivagio">
-    <img src="https://img.shields.io/github/followers/paivagio">
-  </a>
-  <a href="https://github.com/paivagio">
-     <img src="https://komarev.com/ghpvc/?username=paivagio">
-  </a>
-
-  <br/>
-
   <a href="https://t.me/Oliveira_LFA">
     <img align="left" alt="Lucas's Telegram" width="22px" src="https://web.telegram.org/img/logo_share.png" />
   </a>
