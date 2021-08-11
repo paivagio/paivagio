@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=paivagio&show_icons=true)](https://github.com/paivagio)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam0110&show_icons=true)
+
+<a href="https://github.com/paivagio">
+  <img src="https://img.shields.io/github/followers/paivagio">
+</a>
+<a href="https://github.com/paivagio">
+   <img src="https://komarev.com/ghpvc/?username=paivagio">
+</a>
