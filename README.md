@@ -10,13 +10,9 @@ Here are some ideas to get you started:
 
 <br/>
 
-## About me [![Foo](https://web.telegram.org/img/logo_share.png)](http://google.com.au/)
+## About me [<img align="left" alt="Lucas's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />](https://www.instagram.com/giovanni_paiva_/)
 
 <div align="center">
-
-  <a href="https://www.instagram.com/giovanni_paiva_/">
-    <img align="left" alt="Lucas's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
-  </a>
 
   <a href="https://www.linkedin.com/in/giovannipaiva/">
     <img align="left" alt="Lucas's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
