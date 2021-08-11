@@ -15,6 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h1>Welcome to my place in the universe</h1>
+
+<a href="https://github.com/paivagio">
+  <img src="https://img.shields.io/github/followers/paivagio">
+</a>
+<a href="https://github.com/paivagio">
+   <img src="https://komarev.com/ghpvc/?username=paivagio">
+</a>
 
 <div align="center"> 
   <a href="https://github.com/paivagio">
@@ -24,13 +32,6 @@ Here are some ideas to get you started:
 
   ![Snake animation](https://github.com/paivagio/paivagio/blob/output/github-contribution-grid-snake.svg)
 </div>
-
-<a href="https://github.com/paivagio">
-  <img src="https://img.shields.io/github/followers/paivagio">
-</a>
-<a href="https://github.com/paivagio">
-   <img src="https://komarev.com/ghpvc/?username=paivagio">
-</a>
   
 <h1> Repositórios em destaque </h1>
 
