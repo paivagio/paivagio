@@ -9,21 +9,25 @@ Here are some ideas to get you started:
 
 ![Badge](https://img.shields.io/github/followers/paivagio) <img src="https://komarev.com/ghpvc/?username=paivagio"/>
 
-## ABOUT ME 
+---
 
-<div align="center"> 
-  <img height="167em" align="center" src="https://github-readme-stats.vercel.app/api?username=paivagio&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-   <img height="167em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paivagio&layout=compact&theme=midnight-purple&exclude_repo=CliNTREc-Interface"/>
-</div> 
+## ABOUT ME
 
- <br/> 
 🔭 I’m currently working on a cohort selection system for clinical trials<br/>
 🌱 I’m currently learning WEB programming and MATLAB<br/>
 👯 I’m looking to collaborate on ...<br/>
 ⚡ Fun fact: I like space
 
 <br/>
-<!-- 🤔 I’m looking for help with ... -->
+
+---
+
+## MY ANALYTICS 
+
+<div align="center"> 
+  <img height="167em" align="center" src="https://github-readme-stats.vercel.app/api?username=paivagio&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+   <img height="167em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paivagio&layout=compact&theme=midnight-purple&exclude_repo=CliNTREc-Interface"/>
+</div> 
 
 ![Snake animation](https://github.com/paivagio/paivagio/blob/output/github-contribution-grid-snake.svg)
 
