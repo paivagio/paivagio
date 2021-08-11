@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 ![Badge](https://img.shields.io/github/followers/paivagio) <img src="https://komarev.com/ghpvc/?username=paivagio"/>
 
-<img height="167em" align="right" src="https://github.com/paivagio/paivagio/blob/main/dragon.png"/>
+<img align="right" src="https://media.giphy.com/media/jUhFBECgPWb8ZttHSm/giphy.gif"/>
 
 🔭 I’m currently working on a cohort selection system for clinical trials<br/>
 🌱 I’m currently learning WEB programming and MATLAB<br/>
