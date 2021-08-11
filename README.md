@@ -17,13 +17,12 @@ Here are some ideas to get you started:
    <img height="167em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paivagio&layout=compact&theme=midnight-purple&exclude_repo=CliNTREc-Interface"/>
 </div> 
 
-<span style="color: #f2cf4a; font-family: Babas; font-size: 10em;">INSPIRATION DAY</span>
   
-🔭 I’m currently working on a cohort selection system for clinical trials
-🌱 I’m currently learning WEB programming and MATLAB
-👯 I’m looking to collaborate on ...
-💬 Ask me about Information Extraction and Named Entity Recognition 
-⚡ Fun fact: I like space
+🔭 I’m currently working on a cohort selection system for clinical trials<br/>
+🌱 I’m currently learning WEB programming and MATLAB<br/>
+👯 I’m looking to collaborate on ...<br/>
+💬 Ask me about Information Extraction and Named Entity Recognition <br/>
+⚡ Fun fact: I like space<br/>
 <!-- 🤔 I’m looking for help with ... -->
 
     
