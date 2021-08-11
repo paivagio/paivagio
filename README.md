@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 <img align='center' src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="480" height="280" />
 
-
+<br/>
 
 ## ABOUT ME
 
@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning WEB programming and MATLAB<br/>
 - 👯 I’m looking to collaborate on ...<br/>
 
+<br/>
 
 ## TOOLS AND KNOWLEDGE 
 
@@ -32,7 +33,7 @@ Here are some ideas to get you started:
 ![Markdown](https://img.shields.io/badge/Markdown-0a357a?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
 ![Unity3D](https://img.shields.io/badge/Unity-0a357a?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
 
-
+<br/>
 
 ## MY ANALYTICS 
 
