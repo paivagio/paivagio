@@ -21,10 +21,11 @@ Here are some ideas to get you started:
 🔭 I’m currently working on a cohort selection system for clinical trials<br/>
 🌱 I’m currently learning WEB programming and MATLAB<br/>
 👯 I’m looking to collaborate on ...<br/>
-⚡ Fun fact: I like space<br/>
-
+⚡ Fun fact: I like space
+<br/>
+<br/> 
 <details>
-<summary> Connect with me 🤝: </summary>  
+<summary> Reach me 🤝: </summary>  
 
 <br/>
 <a href="https://www.instagram.com/giovanni_paiva_/">
