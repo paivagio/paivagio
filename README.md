@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 ![Badge](https://img.shields.io/github/followers/paivagio) <img src="https://komarev.com/ghpvc/?username=paivagio"/>
 
-<img align='center' src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="480" height="280" />
+<img align='center' src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" />
 
 <br/>
 <!--
