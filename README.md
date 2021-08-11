@@ -11,14 +11,14 @@ Here are some ideas to get you started:
 
 <img align='center' src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="480" height="280" />
 
----
+
 
 ## ABOUT ME
 
 - 🔭 I’m currently working on a cohort selection system for clinical trials<br/>
 - 🌱 I’m currently learning WEB programming and MATLAB<br/>
 - 👯 I’m looking to collaborate on ...<br/>
----
+
 
 ## TOOLS AND KNOWLEDGE 
 
