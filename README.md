@@ -21,25 +21,20 @@ Here are some ideas to get you started:
 🔭 I’m currently working on a cohort selection system for clinical trials<br/>
 🌱 I’m currently learning WEB programming and MATLAB<br/>
 👯 I’m looking to collaborate on ...<br/>
-💬 Ask me about Information Extraction and Named Entity Recognition <br/>
 ⚡ Fun fact: I like space<br/>
+💬 Reach me: 
+[<img alt="Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />](https://www.instagram.com/giovanni_paiva_/) [<img align="left" alt="Lucas's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />](https://www.linkedin.com/in/giovannipaiva/)
+<br/>
 <!-- 🤔 I’m looking for help with ... -->
 
     
 ![Snake animation](https://github.com/paivagio/paivagio/blob/output/github-contribution-grid-snake.svg)
 
-  
----
-
-## REACH ME
-
-[<img alt="Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />](https://www.instagram.com/giovanni_paiva_/) [<img align="left" alt="Lucas's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />](https://www.linkedin.com/in/giovannipaiva/)
-
 <br/>
 
 ---
 
-## Recent work
+## RECENT WORK
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paivagio&repo=CliNTREc&theme=midnight-purple)](https://github.com/paivagio/CliNTREc)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paivagio&repo=CliNTREc-Interface&theme=midnight-purple)](https://github.com/paivagio/CliNTREc-Interface)
