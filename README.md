@@ -23,10 +23,6 @@ Here are some ideas to get you started:
 </a>
 -->
 
-[![Instagram](https://img.shields.io/badge/instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/giovanni_paiva_/)&nbsp;
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovannipaiva/)&nbsp;
-[![Discord](https://img.shields.io/badge/discord-%237289d9?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/256154442309566465/)&nbsp;
-
 ## ABOUT ME
 
 ![Python](https://img.shields.io/badge/Python-0a357a?style=for-the-badge&logo=python&logoColor=white)&nbsp;
@@ -55,7 +51,11 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 <br/>
-<br/>
+
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/giovanni_paiva_/)&nbsp;
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovannipaiva/)&nbsp;
+[![Discord](https://img.shields.io/badge/discord-%237289d9?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/256154442309566465/)&nbsp;
+
 <br/>
 
 <div align="center"> 
