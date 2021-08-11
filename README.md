@@ -10,31 +10,50 @@ Here are some ideas to get you started:
 
 <img align="center" src="https://github.com/paivagio/paivagio/blob/main/images/space.jpg"/>
 
-<a href="https://github.com/paivagio">
-  <img src="https://img.shields.io/github/followers/paivagio">
-</a>
-<a href="https://github.com/paivagio">
-   <img src="https://komarev.com/ghpvc/?username=paivagio">
-</a>
+<div align="center">
+  <a href="https://github.com/paivagio">
+    <img src="https://img.shields.io/github/followers/paivagio">
+  </a>
+  <a href="https://github.com/paivagio">
+     <img src="https://komarev.com/ghpvc/?username=paivagio">
+  </a>
 
+  <br/>
+
+  <a href="https://t.me/Oliveira_LFA">
+    <img align="left" alt="Lucas's Telegram" width="22px" src="https://web.telegram.org/img/logo_share.png" />
+  </a>
+
+  <a href="https://www.instagram.com/giovanni_paiva_/">
+    <img align="left" alt="Lucas's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/giovannipaiva/">
+    <img align="left" alt="Lucas's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
+  </a>
+</div>
 ## About me
 
 <div align="center"> 
   <a href="https://github.com/paivagio">
   <img height="167em" align="center" src="https://github-readme-stats.vercel.app/api?username=paivagio&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
    <img height="167em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paivagio&layout=compact&theme=midnight-purple&exclude_repo=CliNTREc-Interface"/>
+</div> 
   
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔭 I’m currently working on a cohort selection system for clinical trials
+🌱 I’m currently learning WEB programming and MATLAB
+👯 I’m looking to collaborate on ...
+💬 Ask me about Information Extraction and Named Entity Recognition 
+⚡ Fun fact: I like space
+<!-- 🤔 I’m looking for help with ... -->
+
     
-  ![Snake animation](https://github.com/paivagio/paivagio/blob/output/github-contribution-grid-snake.svg)
-</div>
+![Snake animation](https://github.com/paivagio/paivagio/blob/output/github-contribution-grid-snake.svg)
+
+  
+---
+
+<br/>
   
 ## Recent work
 
