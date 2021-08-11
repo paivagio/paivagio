@@ -30,3 +30,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/paivagio">
    <img src="https://komarev.com/ghpvc/?username=paivagio">
 </a>
+  
+<h1> Repositórios em destaque </h1>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paivagio&repo=CliNTREc)](https://github.com/paivagio/CliNTREc)
+
