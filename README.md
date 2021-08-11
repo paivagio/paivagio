@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 <img align="center" src="https://github.com/paivagio/paivagio/blob/main/images/space.jpg"/>
 <br/>
 <div align="center">
-  <h1>About me</h1>
+  <h2>About me</h1>
   <a href="https://t.me/Oliveira_LFA">
     <img align="left" alt="Lucas's Telegram" width="22px" src="https://web.telegram.org/img/logo_share.png" />
   </a>
