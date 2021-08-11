@@ -7,9 +7,12 @@ Here are some ideas to get you started:
 # Welcome to my cozy place in the universe ![Badge](https://img.shields.io/github/followers/paivagio) <img src="https://komarev.com/ghpvc/?username=paivagio"/>
 
 <img align="center" src="https://github.com/paivagio/paivagio/blob/main/images/space.jpg"/>
+
 <br/>
+
+## About me
+
 <div align="center">
-  <span>About me</span>
   <a href="https://t.me/Oliveira_LFA">
     <img align="left" alt="Lucas's Telegram" width="22px" src="https://web.telegram.org/img/logo_share.png" />
   </a>
@@ -22,8 +25,6 @@ Here are some ideas to get you started:
     <img align="left" alt="Lucas's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
   </a>
 </div>
-
-## About me
 
 <div align="center"> 
   <a href="https://github.com/paivagio">
