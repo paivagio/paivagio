@@ -9,8 +9,6 @@ Here are some ideas to get you started:
 
 ![Badge](https://img.shields.io/github/followers/paivagio) <img src="https://komarev.com/ghpvc/?username=paivagio"/>
 
-<img align='center' src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" height='280'/>
-
 <br/>
 <!--
 <img src="https://img.shields.io/badge/yobasu2015@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="yobasu2015@gmail.com">   
@@ -38,6 +36,8 @@ Here are some ideas to get you started:
 ![Unity3D](https://img.shields.io/badge/Unity-0a357a?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
 
 <br/>
+
+<img align='right' src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" height='280'/>
 
 - 🔭 I’m currently working on a cohort selection system for clinical trials<br/>
 - 🌱 I’m currently learning WEB programming and MATLAB<br/>
