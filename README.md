@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </a>
 -->
 
-![Instagram](https://img.shields.io/badge/@giovanni_paiva_-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)&nbsp;
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)&nbsp;](https://www.instagram.com/giovanni_paiva_/)
 
 ## ABOUT ME
 
