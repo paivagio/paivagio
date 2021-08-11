@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 
 <br/>
 
+[![Twitter Badge](https://img.shields.io/badge/-paivagio-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/paivagio)](https://twitter.com/paivagio)  [![Linkedin Badge](https://img.shields.io/badge/-paivagio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovannipaiva//)](https://www.linkedin.com/in/giovannipaiva/) 
+
 ## ABOUT ME
 
 - 🔭 I’m currently working on a cohort selection system for clinical trials<br/>
