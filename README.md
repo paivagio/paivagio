@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 
 
-<h2>ABOUT ME</h2>
+## ABOUT ME
 
 - 🔭 I’m currently working on a cohort selection system for clinical trials<br/>
 - 🌱 I’m currently learning WEB programming and MATLAB<br/>
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ![Markdown](https://img.shields.io/badge/Markdown-0a357a?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
 ![Unity3D](https://img.shields.io/badge/Unity-0a357a?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
 
----
+
 
 ## MY ANALYTICS 
 
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 <br/>
 
----
+
 
 ## RECENT WORK
 
