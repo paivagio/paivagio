@@ -27,12 +27,6 @@ Here are some ideas to get you started:
 
 ## ABOUT ME
 
-- 🔭 I’m currently working on a cohort selection system for clinical trials<br/>
-- 🌱 I’m currently learning WEB programming and MATLAB<br/>
-- 👯 I’m looking to collaborate on ...<br/>
-
-<br/>
-
 ![Python](https://img.shields.io/badge/Python-0a357a?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-0a357a?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/C-0a357a?style=for-the-badge&logo=c&logoColor=white)&nbsp;
@@ -42,6 +36,12 @@ Here are some ideas to get you started:
 ![Assembly](https://img.shields.io/badge/Assembly-0a357a?style=for-the-badge&logo=assembly&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/Markdown-0a357a?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
 ![Unity3D](https://img.shields.io/badge/Unity-0a357a?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
+
+<br/>
+
+- 🔭 I’m currently working on a cohort selection system for clinical trials<br/>
+- 🌱 I’m currently learning WEB programming and MATLAB<br/>
+- 👯 I’m looking to collaborate on ...<br/>
 
 <br/>
 
