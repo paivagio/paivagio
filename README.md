@@ -4,11 +4,8 @@
 Here are some ideas to get you started:
 -->
 
-# WELCOME TO MY COZY PLACE IN THE UNIVERSE 
+# WELCOME 
 
-<img align="center" src="https://github.com/paivagio/paivagio/blob/main/images/space.jpg"/>
-
-<br/>
 
 ![Badge](https://img.shields.io/github/followers/paivagio) <img src="https://komarev.com/ghpvc/?username=paivagio"/>
 
