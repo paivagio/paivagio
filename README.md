@@ -37,7 +37,8 @@ Here are some ideas to get you started:
   ![Snake animation](https://github.com/paivagio/paivagio/blob/output/github-contribution-grid-snake.svg)
 </div>
   
-## My most recent work
+## Recent work
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paivagio&repo=CliNTREc&theme=midnight-purple)](https://github.com/paivagio/CliNTREc)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paivagio&repo=CliNTRE-Interfacec&theme=midnight-purple)](https://github.com/paivagio/CliNTREc-Interface)
 
