@@ -7,21 +7,21 @@ Here are some ideas to get you started:
 # WELCOME 
 
 
-![Badge](https://img.shields.io/github/followers/paivagio) <img src="https://komarev.com/ghpvc/?username=paivagio"/>
+<!--![Badge](https://img.shields.io/github/followers/paivagio) <img src="https://komarev.com/ghpvc/?username=paivagio"/>-->
 
 ![Banner](https://media-exp1.licdn.com/dms/image/C4E16AQH4i4C9HN-pfA/profile-displaybackgroundimage-shrink_350_1400/0/1628001297311?e=1634169600&v=beta&t=Ly8RxPTzKbkHqYRXID48OGUze0GRy18-8hX4sGe3ZkU)
 
 ## ABOUT ME
 
-![Python](https://img.shields.io/badge/Python-0a357a?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/Java-0a357a?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/C-0a357a?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/C%2B%2B-0a357a?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-![C#](https://img.shields.io/badge/C%23-0a357a?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-0a357a?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![Assembly](https://img.shields.io/badge/Assembly-0a357a?style=for-the-badge&logo=assembly&logoColor=white)&nbsp;
-![Markdown](https://img.shields.io/badge/Markdown-0a357a?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
-![Unity3D](https://img.shields.io/badge/Unity-0a357a?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-%237033AD?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-%237033AD?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/C-%237033AD?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/C%2B%2B-%237033AD?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/C%23-%237033AD?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-%237033AD?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![Assembly](https://img.shields.io/badge/Assembly-%237033AD?style=for-the-badge&logo=assembly&logoColor=white)&nbsp;
+![Markdown](https://img.shields.io/badge/Markdown-%237033AD?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
+![Unity3D](https://img.shields.io/badge/Unity-%237033AD?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
 
 <br/>
 
