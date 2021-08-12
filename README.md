@@ -55,15 +55,15 @@ Here are some ideas to get you started:
 <br/>
 
 <div align="center"> 
-  <img height="167em" align="left" src="https://github-readme-stats.vercel.app/api?username=paivagio&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-   <img height="167em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paivagio&layout=compact&theme=midnight-purple&exclude_repo=CliNTREc-Interface"/>
+  <img height="167em" align="center" src="https://github-readme-stats.vercel.app/api?username=paivagio&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+   <img height="167em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paivagio&layout=compact&theme=midnight-purple&exclude_repo=CliNTREc-Interface"/>
 </div> 
 
 <br/>
 
 ## RECENT WORK
 
-<!--
+
 <div align="center"> 
   <a href='https://github.com/paivagio/CliNTREc'>
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=paivagio&repo=CliNTREc&theme=midnight-purple"/>&nbsp;
@@ -72,8 +72,8 @@ Here are some ideas to get you started:
     <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=paivagio&repo=CliNTREc-Interface&theme=midnight-purple"/>&nbsp;
   </a>
 </div> 
--->
 
+<!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paivagio&repo=CliNTREc&theme=midnight-purple)](https://github.com/paivagio/CliNTREc)&nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paivagio&repo=CliNTREc-Interface&theme=midnight-purple)](https://github.com/paivagio/CliNTREc-Interface)&nbsp;
-
+-->
