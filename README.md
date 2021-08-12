@@ -65,10 +65,10 @@ Here are some ideas to get you started:
 
 <div align="center"> 
   <a href='https://github.com/paivagio/CliNTREc'>
-    <img height="167em" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=paivagio&repo=CliNTREc&theme=midnight-purple"/>&nbsp;
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=paivagio&repo=CliNTREc&theme=midnight-purple"/>&nbsp;
   </a>
   <a href='https://github.com/paivagio/CliNTREc-Interface'>
-    <img height="167em" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=paivagio&repo=CliNTREc-Interface&theme=midnight-purple"/>&nbsp;
+    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=paivagio&repo=CliNTREc-Interface&theme=midnight-purple"/>&nbsp;
   </a>
 </div> 
 
