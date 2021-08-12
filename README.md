@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![C#](https://img.shields.io/badge/C%23-%237033AD?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-%237033AD?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Assembly](https://img.shields.io/badge/Assembly-%237033AD?style=for-the-badge&logo=assembly&logoColor=white)&nbsp;
-![Markdown](https://img.shields.io/badge/Markdown-%237033AD?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
+![MatLab](https://img.shields.io/badge/MatLab-%237033AD?style=for-the-badge&logo=matlab&logoColor=white)&nbsp;
 ![Unity3D](https://img.shields.io/badge/Unity-%237033AD?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
 
 <br/>
