@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-<p>Connect with me 😁</p>
+<p align='center'><strong>Connect with me 😁</strong></p>
 
 <div align='center'>
   <img src='https://img.shields.io/badge/instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/giovanni_paiva_/' align='center' />&nbsp;
