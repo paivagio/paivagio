@@ -36,6 +36,8 @@ Here are some ideas to get you started:
 - 💙 I'm focused on healthcare technology
 
 <br/>
+<br/>
+<br/>
 
 <p align='center'><strong>Connect with me 😁</strong></p>
 
