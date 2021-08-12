@@ -10,18 +10,6 @@ Here are some ideas to get you started:
 ![Badge](https://img.shields.io/github/followers/paivagio) <img src="https://komarev.com/ghpvc/?username=paivagio"/>
 
 <br/>
-<!--
-<img src="https://img.shields.io/badge/yobasu2015@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="yobasu2015@gmail.com">   
-<a  href="https://www.instagram.com/sharannyo_/">
-  <img src="https://img.shields.io/badge/@sharannyo_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
-</a>   
-<a href="https://www.linkedin.com/in/sharannyobasu/">
-  <img src="https://img.shields.io/badge/Sharannyo Basu-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" >
-</a> 
-<a  href="https://medium.com/@yobasu2015">
-  <img src="https://img.shields.io/badge/@yobasu2015-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white">
-</a>
--->
 
 ## ABOUT ME
 
@@ -39,9 +27,10 @@ Here are some ideas to get you started:
 
 <img align='right' src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" height='280'/>
 
-- 🔭 I’m currently working on a cohort selection system for clinical trials<br/>
+- 🔭 I’m currently working on cohort selection system for oncology clinical trials<br/>
 - 🌱 I’m currently learning WEB programming and MATLAB<br/>
-- 👯 I’m looking to collaborate on ...<br/>
+- 👯 I’m looking to collaborate on Machine Learning and Data Analysis projects<br/>
+- 💙 I'm focused on healthcare technology
 
 <br/>
 <br/>
