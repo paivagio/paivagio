@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 
 - 🖖 My name is Giovanni and I'm 20 y.o. Brazilian
 - 🎓 I'm a Undergraduate Computer Engineering Student at PUCPR
+- 🥼 I'm an active member of the [HAILab](https://github.com/HAILab-PUCPR) research group
 - 🔭 I’m currently working on cohort selection system for oncology clinical trials<br/>
 - 🌱 I’m currently learning WEB programming and MATLAB<br/>
 - 👯 I’m looking to collaborate on Machine Learning and Data Analysis projects<br/>
