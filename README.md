@@ -11,8 +11,6 @@ Here are some ideas to get you started:
 
 ![Banner](https://media-exp1.licdn.com/dms/image/C4E16AQH4i4C9HN-pfA/profile-displaybackgroundimage-shrink_350_1400/0/1628001297311?e=1634169600&v=beta&t=Ly8RxPTzKbkHqYRXID48OGUze0GRy18-8hX4sGe3ZkU)
 
-<br/>
-
 ## ABOUT ME
 
 ![Python](https://img.shields.io/badge/Python-0a357a?style=for-the-badge&logo=python&logoColor=white)&nbsp;
