@@ -27,12 +27,12 @@ Here are some ideas to get you started:
 
 <img align='right' src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" height='280'/>
 
+- 🖖 My name is Giovanni and I'm a undergraduate Computer Engineering Student at PUCPR, Brazil
 - 🔭 I’m currently working on cohort selection system for oncology clinical trials<br/>
 - 🌱 I’m currently learning WEB programming and MATLAB<br/>
 - 👯 I’m looking to collaborate on Machine Learning and Data Analysis projects<br/>
 - 💙 I'm focused on healthcare technology
 
-<br/>
 <br/>
 
 <p align='center'><strong>Connect with me 😁</strong></p>
