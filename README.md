@@ -54,6 +54,7 @@ Here are some ideas to get you started:
 -->
 
 <br/>
+<br/>
 
 <div align="center"> 
   <img height="167em" align="center" src="https://github-readme-stats.vercel.app/api?username=paivagio&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
