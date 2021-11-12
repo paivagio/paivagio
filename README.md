@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 <!--![Badge](https://img.shields.io/github/followers/paivagio) <img src="https://komarev.com/ghpvc/?username=paivagio"/>-->
 
-![Banner](https://media-exp1.licdn.com/dms/image/C4E16AQH4i4C9HN-pfA/profile-displaybackgroundimage-shrink_350_1400/0/1628001297311?e=1634169600&v=beta&t=Ly8RxPTzKbkHqYRXID48OGUze0GRy18-8hX4sGe3ZkU)
+![Banner](https://github.com/paivagio/paivagio/blob/main/BANNER%20LINKEDIN.png)
 
 ## ABOUT ME
 
