@@ -70,9 +70,6 @@ Here are some ideas to get you started:
   <a href='https://github.com/paivagio/CliNTREc'>
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=paivagio&repo=CliNTREc&theme=midnight-purple"/>&nbsp;
   </a>
-  <a href='https://github.com/paivagio/CliNTREc-Interface'>
-    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=paivagio&repo=CliNTREc-Interface&theme=midnight-purple"/>&nbsp;
-  </a>
   <a href='https://github.com/paivagio/Roots'>
     <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=paivagio&repo=Roots&theme=midnight-purple"/>&nbsp;
   </a>
