@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 -->
 
-<h1 align='center'><strong>🎉 WELCOME 🎉</strong></h1> 
+<!-- <h1 align='center'><strong>🎉 WELCOME 🎉</strong></h1> -->
 
 
 <!--![Badge](https://img.shields.io/github/followers/paivagio) <img src="https://komarev.com/ghpvc/?username=paivagio"/>-->
@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 
 <img align='right' src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" height='280'/>
 
-- 🖖 My name is Giovanni and I'm a 20 y.o. Brazilian
+- 🖖 My name is Giovanni and I'm a 21 y.o. Brazilian
 - 🎓 I'm a Undergraduate Computer Engineering Student at PUCPR
 - 🥼 I'm an active member of the [HAILab](https://github.com/HAILab-PUCPR) research group
-- 🔭 I’m currently working on cohort selection system for oncology clinical trials<br/>
-- 🌱 I’m currently learning WEB programming and MATLAB<br/>
+- 🔭 I’m currently working at ExxonMobil<br/>
+- 🌱 I’m currently learning React js and .NET<br/>
 - 👯 I’m looking to collaborate on Machine Learning and Data Analysis projects<br/>
 - 💙 I'm focused on healthcare technology
 
